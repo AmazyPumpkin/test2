@@ -1,5 +1,0 @@
-http://oa.camelotchina.com/ngoss/
-http://qiye.163.com/login/
-http://www.androiddevtools.cn/
-http://mvnrepository.com/
-http://www.oracle.com/technetwork/cn/developer-tools/apex/apexdev30-085015-zhs.html#o
